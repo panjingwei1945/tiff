@@ -1,0 +1,4 @@
+#ignore tiff file. 
+*.tiff
+*.tif
+*.lnk
